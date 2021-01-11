@@ -1,1 +1,6 @@
-# cosec_questions
+### Question 1
+
+```
+for i in range(10):
+  print(i)
+```
